@@ -20,6 +20,11 @@ docker network connect integrationnetwork app
 docker network connect integrationnetwork db
 
 
+Validamos que ambos contenedores se encuentren en la red
+
+docker network inspect integrationnetwork
+
+
 Validaciòn de la conexiòn
 
 docker exec -it app bash
