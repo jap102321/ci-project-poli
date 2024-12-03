@@ -1,5 +1,7 @@
 # ci-project-poli
-Proyecto de integración continua con docker y jenkins.
+Proyecto de integración continua con docker y jenkins. 
+
+Entrega final.
 
 # Ejecución docker
 
