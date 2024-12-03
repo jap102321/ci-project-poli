@@ -1,1 +1,1 @@
-Pipeline test 5.0
+Pipeline test 6.0
