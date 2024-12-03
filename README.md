@@ -4,6 +4,7 @@ Proyecto de integración continua con docker y jenkins.
 # Ejecución docker
 
 Ejecutamos el siguiente comando para correr el primer contenedor que corresponde al de la app
+
 docker run -d --name app -p 3000:3000 --env MONGO_URL=mongodb://db:27017/test integracionapp 
 
 Para correr el de la base de datos
